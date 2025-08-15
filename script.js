@@ -7,15 +7,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Quando você assiste um anime, o que mais te prende na história?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "A evolução dos personagens e as batalhas épicas que mostram seu crescimento.",
+                afirmacao: "Fã de shonen e ação, que curte aventura, superação e emoção nas lutas."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Os dilemas morais, reviravoltas e a complexidade psicológica dos personagens.",
+                afirmacao: "Fã de animes psicológicos e sombrios, que gosta de pensar sobre as escolhas dos personagens e explorar temas profundos."
             }    
            
         ]
