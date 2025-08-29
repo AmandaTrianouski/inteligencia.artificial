@@ -26,11 +26,11 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Durante o dia",
-                    afirmacao: "Você é uma raposa como o Naruto, proavelmente é extrovertido/a e tem tempo de sobra,"
+                    afirmacao: "Você é uma raposa como o Naruto, proavelmente é extrovertido/a e tem tempo de sobra."
                 },
                 {
                     texto:  "Durante a noite",
-                    afirmacao: "Você é um/a coruja da noite, proavelmente é introvertido/a e tem muitos afazere durante o dia,"
+                    afirmacao: "Você é um/a coruja da noite, proavelmente é introvertido/a e tem muitos afazere durante o dia."
                 }    
                
             ]
