@@ -6,16 +6,17 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
-    {
-        enunciado: "Quando você assiste um anime, o que mais te prende na história?",
+   
+     {
+        enunciado: "Pronto/a para começar?",
         alternativas: [
             {
-                texto: "A evolução dos personagens e as batalhas épicas que mostram seu crescimento.",
-                afirmacao: "Fã de shonen e ação, que curte aventura, superação e emoção nas lutas."
+                texto: "Simm vamos nessaᐛ",
+                afirmacao: "Muito animado/a você!"
             },
             {
-                texto:  "Os dilemas morais, reviravoltas e a complexidade psicológica dos personagens.",
-                afirmacao: "Fã de animes psicológicos e sombrios, que gosta de pensar sobre as escolhas dos personagens e explorar temas profundos."
+                texto:  "Não⍤",
+                afirmacao: "Para de ser antipatico/a!"
             }    
            
         ]
